@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Rust_Plus_React/static/css/main.073c9b0a.css",
+    "main.js": "/Rust_Plus_React/static/js/main.f8dc5edf.js",
+    "static/js/787.7683e648.chunk.js": "/Rust_Plus_React/static/js/787.7683e648.chunk.js",
+    "static/media/tammy.svg": "/Rust_Plus_React/static/media/tammy.0173d4b1c4cdaa8b81940a57bb2b2580.svg",
+    "index.html": "/Rust_Plus_React/index.html",
+    "static/media/wasm_lib_bg.wasm": "/Rust_Plus_React/static/media/wasm_lib_bg.ee372b327d3386d0dceb.wasm",
+    "main.073c9b0a.css.map": "/Rust_Plus_React/static/css/main.073c9b0a.css.map",
+    "main.f8dc5edf.js.map": "/Rust_Plus_React/static/js/main.f8dc5edf.js.map",
+    "787.7683e648.chunk.js.map": "/Rust_Plus_React/static/js/787.7683e648.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f8dc5edf.js"
+  ]
+}
