@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import init, { add } from "wasm-lib";
-import logo from './logo.svg';
+import logo from './tammy.svg';
 import './App.css';
 
 function App() {
@@ -14,18 +14,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <p>1 + 1 = {ans}</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Rust-Wasm-React</h1>
+        <h2>this math is done with Rust!   <span>1 + 1 = {ans}</span></h2> 
+        
       </header>
     </div>
   );
